@@ -6,3 +6,5 @@ Es necesario tener intalado el JDK 17 o superior y tener configurado las variabl
 El programa solo puede ser ejecutado en consola. 
 
 Espero que les sea de utilidad. Saludos 
+
+Nota: El proyecto se encuentra en la rama Master. 
